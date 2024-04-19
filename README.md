@@ -11,7 +11,7 @@ Features of Starlight - Satellite Tracker include:
 To use the Device Pointing Tool:
 
 -The circle on the bottom is used to align the device heading(think of it as a compass)\
--Follow the arrows to align your device(circle turns green)\
+-Follow the arrows to align your device(circle turns green)
 
 -Circle above is used to align device pitch(think of it as upwards or downwards tilt)\
 -If the circle directs an upward tilt of the device, slowly begin pointing the device
