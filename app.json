@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Starlight",
+    "slug": "Starlight",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/Starlight.png",
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "package": "com.starlightprototype2",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9b69d9e0-6456-407b-9f71-4c99f3462f77"
+      }
+    }
+  },
+  "name": "Starlight"
+}
