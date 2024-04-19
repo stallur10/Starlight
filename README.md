@@ -1,7 +1,7 @@
 # Starlight (Production - Google Play)
 https://play.google.com/store/apps/details?id=com.starlightprototype2
 
-Features of Starlight - Satellite Tracker include:
+**Features of Starlight - Satellite Tracker include:**
 -Real-time satellite locations + Trajectory!\
 -Interactive globe with 2D option!\
 -Tool to find the next time(to the exact second) of when a satellite is visible in your night sky!\
