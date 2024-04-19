@@ -10,4 +10,4 @@ https://play.google.com/store/apps/details?id=com.starlightprototype2
 -News Feed featuring the latest articles regarding space and space exploration!\
 
 
-Enjoy many previously unobservable satellites, now brought right down to your fingertips!
+**Enjoy many previously unobservable satellites, now brought right down to your fingertips!**
